@@ -1,0 +1,3 @@
+@ 10800 IN SOA ns1.gandi.net. hostmaster.gandi.net. 1519166844 10800 3600 604800 10800
+* 1800 IN CNAME server.example.com.
+www 10800 IN CNAME server.example.com.
