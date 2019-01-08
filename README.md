@@ -26,7 +26,7 @@ Read readme file in:
 
 I want to update `example.io` DNS configuration.
 
-1. I go `santa-maria.io` directory
+1. I go `example.io` directory
 2. I update `records.txt` file
 3. I launch `./diff.py` to see the diff between `records.txt` and current live config
 4. if diff is ok, I launch `./push_records.py` to push my config
